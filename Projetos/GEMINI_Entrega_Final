@@ -1,0 +1,25 @@
+Este arquivo serve para esclarecer que as seções SECURITY e CONTRIBUTING
+foram desenvolvidas com a assistência da ferramenta de IA GEMINI necessária
+para a Entrega Final da disciplina Bootcamp 1.
+
+--------------------------------------------
+O PortfolioHUB é uma solução de duas partes:
+o front-end visual (Canva) e o back-end de código e documentação (GitHub).
+
+---------------------------
+Sobre a seção de Segurança:
+
+A Proteção da Branch Principal (main) foi configurada, exigindo Pull Request e revisão
+de código antes de qualquer merge, o que garante a integridade do código.
+
+------------------------------
+Sobre a seção de Contribuição:
+
+Para permitir contribuições externas seguras, adicionei o CONTRIBUTING.md, que define 
+os padrões de commits e o fluxo de Pull Requests.
+
+--------------------------------------------------------------------------------------
+Assim, o PortfolioHUB integra o site pessoal no Canva, página profissional no LinkedIn
+e informações mais detalhadas sobre a execução desse projeto no GitHub.
+
+
