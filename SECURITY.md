@@ -34,5 +34,5 @@ Agradecemos a busca responsável por vulnerabilidades.
 Se você encontrar qualquer falha de segurança neste projeto (configurações do GitHub, *links* quebrados, vazamento de dados acidental, etc.), siga estas diretrizes:
 
 1.  **Não divulgue a vulnerabilidade publicamente.**
-2.  **Entre em contato:** Envie um e-mail descrevendo a falha de forma clara e concisa para o contato principal (e-mail, se disponível no seu Perfil Pessoal).
+2.  **Entre em contato:** Envie um e-mail descrevendo a falha de forma clara e concisa para o contato principal (e-mail, em meu Perfil Pessoal).
 3.  **Tempo de Resposta:** Uma resposta inicial será enviada em até 48 horas.
